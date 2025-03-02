@@ -1,2 +1,2 @@
 # Hare-Tortoise
-Story of hare and tortorise in opencv
+Story of hare and tortorise in opengl
